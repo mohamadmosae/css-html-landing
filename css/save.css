@@ -1,0 +1,375 @@
+@media(min-width:1200px){
+    section.save {
+    width: 100%;
+    margin-top: 180px;
+    text-align: center;
+}
+
+section.save>p.mont {
+    padding-top: 150px;
+    font-family: 'Montserrat';
+    color: #45152A;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 2px;
+
+}
+
+section.save>h2 {
+    width: 80%;
+    margin: auto;
+    font-family: 'PlayfairDisplay';
+    font-size: 63px;
+    font-weight: lighter;
+
+}
+
+section.save {
+    width: 100%;
+    height: 150vh;
+    background: url(../images/subscribe-background-scaled.jpg)no-repeat center center scroll;
+    background-size: cover;
+    text-align: center;
+
+
+}
+
+section.save>p.bye {
+    width: 32%;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+section.save>div.for>input {
+    display: block;
+    width: 45%;
+    height: 50px;
+    margin: 70px auto;
+    border-radius: 5px;
+    border: none;
+}
+
+section.save>div.for>input:hover {
+    border: 1px dotted #ff0000;
+
+}
+
+section.save>button {
+    border: none;
+    width: 202px;
+    height: 45px;
+    width: 250px;
+
+    background-color: #7F0F41;
+    color: white;
+    font-family: 'Montserrat';
+    transition: all 300ms linear;
+}
+
+section.save>button:hover {
+    background-color: #ff6365;
+cursor: pointer;
+}
+}
+@media(min-width:992px ) and (max-width:1200px){
+    section.save {
+        width: 100%;
+        margin-top: 50px;
+        text-align: center;
+    }
+    
+    section.save>p.mont {
+        padding-top: 150px;
+        font-family: 'Montserrat';
+        color: #45152A;
+        font-size: 20px;
+        font-weight: 400;
+        letter-spacing: 2px;
+    
+    }
+    
+    section.save>h2 {
+        width: 80%;
+        margin: auto;
+        font-family: 'PlayfairDisplay';
+        font-size: 63px;
+        font-weight: lighter;
+    
+    }
+    
+    section.save {
+        width: 100%;
+        height: 150vh;
+        background: url(../images/subscribe-background-scaled.jpg)no-repeat center center scroll;
+        background-size: cover;
+        text-align: center;
+    
+    
+    }
+    
+    section.save>p.bye {
+        width: 32%;
+        font-family: 'Montserrat';
+        font-size: 14px;
+        margin: auto;
+        padding-top: 10px;
+    }
+    
+    section.save>div.for>input {
+        display: block;
+        width: 45%;
+        height: 50px;
+        margin: 70px auto;
+        border-radius: 5px;
+        border: none;
+    }
+    
+    section.save>div.for>input:hover {
+        border: 1px dotted #ff0000;
+    
+    }
+    
+    section.save>button {
+        border: none;
+        width: 202px;
+        height: 45px;
+        width: 250px;
+    
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+    }
+    
+    section.save>button:hover {
+        background-color: #ff6365;
+    cursor: pointer;
+    }
+}
+@media(min-width:768px) and (max-width:992px){
+    section.save {
+        width: 100%;
+        margin-top: 50px;
+        text-align: center;
+    }
+    
+    section.save>p.mont {
+        padding-top: 150px;
+        font-family: 'Montserrat';
+        color: #45152A;
+        font-size: 20px;
+        font-weight: 400;
+        letter-spacing: 2px;
+    
+    }
+    
+    section.save>h2 {
+        width: 80%;
+        margin: auto;
+        font-family: 'PlayfairDisplay';
+        font-size: 63px;
+        font-weight: lighter;
+    
+    }
+    
+    section.save {
+        width: 100%;
+        height: 150vh;
+        background: url(../images/subscribe-background-scaled.jpg)no-repeat center center scroll;
+        background-size: cover;
+        text-align: center;
+    
+    
+    }
+    
+    section.save>p.bye {
+        width: 32%;
+        font-family: 'Montserrat';
+        font-size: 14px;
+        margin: auto;
+        padding-top: 10px;
+    }
+    
+    section.save>div.for>input {
+        display: block;
+        width: 45%;
+        height: 50px;
+        margin: 70px auto;
+        border-radius: 5px;
+        border: none;
+    }
+    
+    section.save>div.for>input:hover {
+        border: 1px dotted #ff0000;
+    
+    }
+    
+    section.save>button {
+        border: none;
+        width: 202px;
+        height: 45px;
+        width: 250px;
+    
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+    }
+    
+    section.save>button:hover {
+        background-color: #ff6365;
+    cursor: pointer;
+    }
+}
+@media(min-width:576px) and (max-width:768px){
+    section.save {
+        width: 100%;
+        margin-top: 50px;
+        text-align: center;
+    }
+    
+    section.save>p.mont {
+        padding: 120px 0 30px 0;
+        font-family: 'Montserrat';
+        color: #45152A;
+        font-size: 18px;
+        font-weight: 400;
+        letter-spacing: 2px;
+    
+    }
+    
+    section.save>h2 {
+        width: 100%;
+        margin: auto;
+        font-family: 'PlayfairDisplay';
+        font-size: 63px;
+        font-weight: lighter;
+    
+    }
+    
+    section.save {
+        width: 100%;
+        height: 100vh;
+        background: url(../images/subscribe-background-scaled.jpg)no-repeat center center scroll;
+        background-size: cover;
+        text-align: center;
+    
+    
+    }
+    
+    section.save>p.bye {
+        width: 80%;
+        font-family: 'Montserrat';
+        font-size: 14px;
+        margin: auto;
+        padding-top: 10px;
+    }
+    
+    section.save>div.for>input {
+        display: block;
+        width: 85%;
+        height: 50px;
+        margin: 30px auto;
+        border-radius: 5px;
+        border: none;
+    }
+    
+    section.save>div.for>input:hover {
+        border: 1px dotted #ff0000;
+    
+    }
+    
+    section.save>button {
+        border: none;
+        width: 85%;
+        height: 45px;
+        
+    
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+    }
+    
+    section.save>button:hover {
+        background-color: #ff6365;
+    cursor: pointer;
+    }
+}
+@media(max-width:576px){
+    section.save {
+        width: 100%;
+        margin-top: 50px;
+        text-align: center;
+    }
+    
+    section.save>p.mont {
+        padding: 120px 0 30px 0;
+        font-family: 'Montserrat';
+        color: #45152A;
+        font-size: 18px;
+        font-weight: 400;
+        letter-spacing: 2px;
+    
+    }
+    
+    section.save>h2 {
+        width: 100%;
+        margin: auto;
+        font-family: 'PlayfairDisplay';
+        font-size: 33px;
+        font-weight: lighter;
+    
+    }
+    
+    section.save {
+        width: 100%;
+        height: 100vh;
+        background: url(../images/subscribe-background-scaled.jpg)no-repeat center center scroll;
+        background-size: cover;
+        text-align: center;
+    
+    
+    }
+    
+    section.save>p.bye {
+        width: 80%;
+        font-family: 'Montserrat';
+        font-size: 14px;
+        margin: auto;
+        padding-top: 10px;
+    }
+    
+    section.save>div.for>input {
+        display: block;
+        width: 85%;
+        height: 50px;
+        margin: 30px auto;
+        border-radius: 5px;
+        border: none;
+    }
+    
+    section.save>div.for>input:hover {
+        border: 1px dotted #ff0000;
+    
+    }
+    
+    section.save>button {
+        border: none;
+        width: 85%;
+        height: 45px;
+        
+    
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+    }
+    
+    section.save>button:hover {
+        background-color: #ff6365;
+    cursor: pointer;
+    }
+}

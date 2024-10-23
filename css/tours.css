@@ -1,0 +1,295 @@
+@media(min-width:1200px){
+    section.tours{
+    background: url(../images/vineyard-tours-background-scaled.jpg) no-repeat center center scroll;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+    color: #fff;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: center;
+}
+section.tours>div.toursmain{
+    
+    width: 80%;
+    line-height: auto;
+
+}
+section.tours>div.empty2{
+    width: 5%;
+}
+
+section.tours>div.toursmain>p.table{
+    font-family: 'Montserrat';
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+section.tours>div.toursmain>h2{
+    font-family:'PlayfairDisplay' ;
+    font-size: 60px;
+    font-weight: 300;
+}
+section.tours>div.toursmain>p.take{
+    font-size: 14px;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    width: 41%;
+    line-height: 24px;
+    padding: 20px 0;
+}
+section.tours>div.toursmain>button {
+    border: none;
+    width: 202px;
+    height: 45px;
+    width: 250px;
+
+    background-color: #7F0F41;
+    color: white;
+    font-family: 'Montserrat';
+    transition: all 300ms linear;
+}
+section.tours>div.toursmain>button:hover {
+    background-color: #ff6365;
+cursor: pointer;
+}
+}
+@media(min-width:992px ) and (max-width:1200px){
+    section.tours{
+        background: url(../images/vineyard-tours-background-scaled.jpg) no-repeat center center scroll;
+        background-size: cover;
+        width: 100%;
+        height: 80vh;
+        color: #fff;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        align-content: center;
+    }
+    section.tours>div.toursmain{
+        
+        width: 80%;
+        line-height: auto;
+    
+    }
+    section.tours>div.empty2{
+        width: 5%;
+    }
+    
+    section.tours>div.toursmain>p.table{
+        font-family: 'Montserrat';
+        font-size: 20px;
+        letter-spacing: 2px;
+        font-weight: 300;
+    }
+    section.tours>div.toursmain>h2{
+        font-family:'PlayfairDisplay' ;
+        font-size: 60px;
+        font-weight: 300;
+    }
+    section.tours>div.toursmain>p.take{
+        font-size: 14px;
+        font-family: 'Montserrat';
+        font-weight: 300;
+        width: 45%;
+        line-height: 24px;
+        padding: 20px 0;
+    }
+    section.tours>div.toursmain>button {
+        border: none;
+        width: 202px;
+        height: 45px;
+        width: 250px;
+    
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+    }
+    section.tours>div.toursmain>button:hover {
+        background-color: #ff6365;
+    cursor: pointer;
+    } 
+}
+@media(min-width:768px) and (max-width:992px){
+    section.tours{
+        background: url(../images/vineyard-tours-background-scaled.jpg) no-repeat center center scroll;
+        background-size: cover;
+        width: 100%;
+        height: 80vh;
+        color: #fff;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        align-content: center;
+    }
+    section.tours>div.toursmain{
+        
+        width: 80%;
+        line-height: auto;
+    
+    }
+    section.tours>div.empty2{
+        width: 5%;
+    }
+    
+    section.tours>div.toursmain>p.table{
+        font-family: 'Montserrat';
+        font-size: 20px;
+        letter-spacing: 2px;
+        font-weight: 300;
+    }
+    section.tours>div.toursmain>h2{
+        font-family:'PlayfairDisplay' ;
+        font-size: 60px;
+        font-weight: 300;
+    }
+    section.tours>div.toursmain>p.take{
+        font-size: 14px;
+        font-family: 'Montserrat';
+        font-weight: 300;
+        width: 45%;
+        line-height: 24px;
+        padding: 20px 0;
+    }
+    section.tours>div.toursmain>button {
+        border: none;
+        width: 202px;
+        height: 45px;
+        width: 250px;
+    
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+    }
+    section.tours>div.toursmain>button:hover {
+        background-color: #ff6365;
+    cursor: pointer;
+    } 
+}
+@media(min-width:576px) and (max-width:768px){
+    section.tours{
+        background: url(../images/vineyard-tours-background-scaled.jpg) no-repeat center center scroll;
+        background-size: cover;
+        width: 100%;
+        height: 90vh;
+        color: #fff;
+        display: flex;
+        flex-flow: column wrap;
+    text-align: center;
+        justify-content: space-around;
+        align-content: center;
+        
+    }
+    section.tours>div.toursmain{
+        
+        width: 90%;
+        line-height: auto;
+    
+    }
+    section.tours>div.empty2{
+        width: 5%;
+        display: none;
+    }
+    
+    section.tours>div.toursmain>p.table{
+        font-family: 'Montserrat';
+        font-size: 20px;
+        letter-spacing: 2px;
+        font-weight: 300;
+    }
+    section.tours>div.toursmain>h2{
+        font-family:'PlayfairDisplay' ;
+        font-size: 60px;
+        font-weight: 300;
+    }
+    section.tours>div.toursmain>p.take{
+        font-size: 14px;
+        font-family: 'Montserrat';
+        font-weight: 300;
+        width: 95%;
+        margin: auto;
+        line-height: 24px;
+        padding: 20px 0;
+    }
+    section.tours>div.toursmain>button {
+        border: none;
+        width: 202px;
+        height: 45px;
+        width: 250px;
+    
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+    }
+    section.tours>div.toursmain>button:hover {
+        background-color: #ff6365;
+    cursor: pointer;
+    } 
+
+}
+@media(max-width:576px){
+    section.tours{
+        background: url(../images/vineyard-tours-background-scaled.jpg) no-repeat center center scroll;
+        background-size: cover;
+        width: 100%;
+        height: 90vh;
+        color: #fff;
+        display: flex;
+        flex-flow: column wrap;
+    text-align: center;
+        justify-content: space-around;
+        align-content: center;
+        
+    }
+    section.tours>div.toursmain{
+        
+        width: 90%;
+        line-height: auto;
+    
+    }
+    section.tours>div.empty2{
+        width: 5%;
+        display: none;
+    }
+    
+    section.tours>div.toursmain>p.table{
+        font-family: 'Montserrat';
+        font-size: 20px;
+        letter-spacing: 2px;
+        font-weight: 300;
+    }
+    section.tours>div.toursmain>h2{
+        font-family:'PlayfairDisplay' ;
+        font-size: 40px;
+        font-weight: 300;
+    }
+    section.tours>div.toursmain>p.take{
+        font-size: 14px;
+        font-family: 'Montserrat';
+        font-weight: 300;
+        width: 95%;
+        margin: auto;
+        line-height: 24px;
+        padding: 20px 0;
+    }
+    section.tours>div.toursmain>button {
+        border: none;
+        width: 202px;
+        height: 45px;
+        width: 80%;
+    margin: auto;
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+    }
+    section.tours>div.toursmain>button:hover {
+        background-color: #ff6365;
+    cursor: pointer;
+    } 
+
+}

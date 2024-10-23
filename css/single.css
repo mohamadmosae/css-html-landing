@@ -1,0 +1,288 @@
+@media(min-width:1200px){
+    section.single{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    justify-content: space-evenly;
+    position: relative;
+}
+div.pro {
+    position: relative;
+    bottom: 50px;
+    
+    border-radius: 10px 10px 0 0;
+    width: 400px;
+    height: 320px;
+    background: url(../images/calltoaction-background.jpg) no-repeat center center scroll;
+    background-size: cover;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-end;
+    align-content: center;
+    text-align: center;
+    
+}
+div.pro>p{
+    color: #7F0F41;
+    font-family:'PlayfairDisplay' ;
+    font-size: 35px;
+    margin-bottom: 32px;
+}
+div.pro>div.axe>img {
+    margin:0 auto -5px auto;
+    width: 80px;
+    display: flex;
+
+
+}
+
+div.pro>button {
+    border: none;
+    height: 40px;
+    background-color: #7F0F41;
+    color: #fff;
+    width: 100%;
+}
+div.pro>button{
+    transition: all 200ms linear;
+}
+
+
+div.pro>button:hover{
+    background-color:#FF6365 ;
+    cursor: pointer;
+}
+
+}
+@media(min-width:992px ) and (max-width:1200px){
+
+    section.single{
+        display: flex;
+        flex-flow: row wrap;
+        width: 100%;
+        justify-content: space-evenly;
+        position: relative;
+    }
+    div.pro {
+        position: relative;
+        bottom: 50px;
+        border-radius: 10px 10px 0 0;
+        width: 300px;
+        height: 330px;
+        background: url(../images/calltoaction-background.jpg) no-repeat center center scroll;
+        background-size: cover;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: flex-end;
+        align-content: center;
+        text-align: center;
+        
+    }
+    div.pro>p{
+        color: #7F0F41;
+        font-family:'PlayfairDisplay' ;
+        font-size: 35px;
+        margin-bottom: 32px;
+    }
+    div.pro>div.axe>img {
+        margin:0 auto -5px auto;
+        width: 80px;
+        height: 155px;
+        display: flex;
+    
+    
+    }
+    
+    div.pro>button {
+        border: none;
+        height: 40px;
+        background-color: #7F0F41;
+        color: #fff;
+        width: 100%;
+    }
+    div.pro>button{
+        transition: all 200ms linear;
+    }
+    
+    
+    div.pro>button:hover{
+        background-color:#FF6365 ;
+        cursor: pointer;
+    }
+
+    
+}
+@media(min-width:768px) and (max-width:992px){
+    section.single{
+        display: flex;
+        flex-flow: row wrap;
+        width: 100%;
+        justify-content: space-evenly;
+        position: relative;
+    }
+    div.pro {
+        position: relative;
+        bottom: 50px;
+        border-radius: 10px 10px 0 0;
+        width: 236px;
+        height: 330px;
+        background: url(../images/calltoaction-background.jpg) no-repeat center center scroll;
+        background-size: cover;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: flex-end;
+        align-content: center;
+        text-align: center;
+        
+    }
+    div.pro>p{
+        color: #7F0F41;
+        font-family:'PlayfairDisplay' ;
+        font-size: 35px;
+        margin-bottom: 32px;
+    }
+    div.pro>div.axe>img {
+        margin:0 auto -5px auto;
+        width: 80px;
+        height: 155px;
+        display: flex;
+    
+    
+    }
+    
+    div.pro>button {
+        border: none;
+        height: 40px;
+        background-color: #7F0F41;
+        color: #fff;
+        width: 100%;
+    }
+    div.pro>button{
+        transition: all 200ms linear;
+    }
+    
+    
+    div.pro>button:hover{
+        background-color:#FF6365 ;
+        cursor: pointer;
+    }
+
+}
+@media(min-width:576px) and (max-width:768px){
+    section.single{
+        text-align: center;
+        display: flex;
+        flex-flow: column wrap;
+        width: 100%;
+        justify-content: space-evenly;
+        position: relative;
+    }
+    div.pro {
+        margin:  10px auto;
+        position: relative;
+        bottom: 50px;
+        border-radius: 10px 10px 0 0;
+        width: 90%;
+        height: 330px;
+        background: url(../images/calltoaction-background.jpg) no-repeat center center scroll;
+        background-size: cover;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: flex-end;
+        align-content: center;
+        text-align: center;
+        
+    }
+    div.pro>p{
+        color: #7F0F41;
+        font-family:'PlayfairDisplay' ;
+        font-size: 35px;
+        margin-bottom: 32px;
+    }
+    div.pro>div.axe>img {
+        margin:0 auto -5px auto;
+        width: 80px;
+        height: 155px;
+        display: flex;
+    
+    
+    }
+    
+    div.pro>button {
+        border: none;
+        height: 40px;
+        background-color: #7F0F41;
+        color: #fff;
+        width: 100%;
+    }
+    div.pro>button{
+        transition: all 200ms linear;
+    }
+    
+    
+    div.pro>button:hover{
+        background-color:#FF6365 ;
+        cursor: pointer;
+    }
+
+
+}
+@media(max-width:576px){
+    section.single{
+        text-align: center;
+        display: flex;
+        flex-flow: column wrap;
+        width: 100%;
+        justify-content: space-evenly;
+        position: relative;
+    }
+    div.pro {
+        margin:  10px auto;
+        position: relative;
+        bottom: 50px;
+        border-radius: 10px 10px 0 0;
+        width: 90%;
+        height: 230px;
+        background: url(../images/calltoaction-background.jpg) no-repeat center center scroll;
+        background-size: cover;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: flex-end;
+        align-content: center;
+        text-align: center;
+        
+    }
+    div.pro>p{
+        color: #7F0F41;
+        font-family:'PlayfairDisplay' ;
+        font-size: 25px;
+        margin-bottom: 32px;
+    }
+    div.pro>div.axe>img {
+        margin:0 auto -5px auto;
+        width: 80px;
+        height: 130px;
+        display: flex;
+    
+    
+    }
+    
+    div.pro>button {
+        border: none;
+        height: 40px;
+        background-color: #7F0F41;
+        color: #fff;
+        width: 100%;
+    }
+    div.pro>button{
+        transition: all 200ms linear;
+    }
+    
+    
+    div.pro>button:hover{
+        background-color:#FF6365 ;
+        cursor: pointer;
+    }
+
+
+}

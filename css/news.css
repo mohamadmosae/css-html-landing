@@ -1,0 +1,450 @@
+@media(min-width:1200px) {
+    section.news {
+
+        text-align: center;
+
+    }
+
+    section.news>div.newstext {
+        padding: 120px 0 50px 0;
+        text-align: center;
+    }
+
+    section.news>div.newstext>p {
+        font-family: 'Montserrat';
+        font-size: 18px;
+        letter-spacing: 2px;
+        font-weight: 400;
+    }
+
+    section.news>div.newstext>h2 {
+        font-family: 'PlayfairDisplay';
+        font-size: 60px;
+        font-weight: 300;
+    }
+
+    section.news>div.newscart {
+        margin: auto;
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-evenly;
+
+
+    }
+
+    section.news>div.newscart>div.cart {
+        text-align: center;
+        width: 357px;
+        height: 261px;
+    }
+    section.news>div.newscart>div.cart>div.newsph{
+        width: 357px;
+        height: 261px;
+    }
+    section.news>div.newscart>div.cart>div.newsph>img{
+        width: 357px;
+        height: 261px;
+    }
+    section.news>div.newscart>div.cart>h3 {
+        transition: all 300ms linear;
+        font-family: 'PlayfairDisplay';
+        font-size: 28px;
+        font-weight: 400;
+        padding: 15px 0 5px 0;
+    }
+
+    section.news>div.newscart>div.cart>p {
+        font-family: 'Montserrat';
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+
+    section.news>div.newscart>div.cart>h3:hover {
+        color: #7F0F41;
+        cursor: pointer;
+    }
+
+    section.news>button {
+        border: none;
+        height: 45px;
+        width: 250px;
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+        margin: 200px auto 100px auto;
+
+    }
+
+    section.news>button:hover {
+        background-color: #ff6365;
+        cursor: pointer;
+    }
+}
+
+@media(min-width:992px) and (max-width:1200px) {
+
+
+    section.news {
+        text-align: center;
+
+    }
+
+    section.news>div.newstext {
+        padding: 120px 0 50px 0;
+        text-align: center;
+    }
+
+    section.news>div.newstext>p {
+        font-family: 'Montserrat';
+        font-size: 18px;
+        letter-spacing: 2px;
+        font-weight: 400;
+    }
+
+    section.news>div.newstext>h2 {
+        font-family: 'PlayfairDisplay';
+        font-size: 60px;
+        font-weight: 300;
+    }
+    section.news>div.newscart {
+        
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-evenly;
+
+
+    }
+
+    section.news>div.newscart>div.cart {
+        
+        text-align: center;
+        width: 30%;
+        
+    }
+    section.news>div.newscart>div.cart>div.newsph{
+        width: 100%;
+        height: 207px;
+    }
+    section.news>div.newscart>div.cart>div.newsph>img{
+        width: 100%;
+        height: 207px;
+    }
+
+    section.news>div.newscart>div.cart>h3 {
+        transition: all 300ms linear;
+        font-family: 'PlayfairDisplay';
+        font-size: 25px;
+        font-weight: 400;
+        padding: 15px 0 5px 0;
+    }
+
+    section.news>div.newscart>div.cart>p {
+        font-family: 'Montserrat';
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+
+    section.news>div.newscart>div.cart>h3:hover {
+        color: #7F0F41;
+        cursor: pointer;
+    }
+
+    section.news>button {
+        border: none;
+        width: 180px;
+        height: 45px;
+        font-size: 12px;
+        letter-spacing: 2px;
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+        margin: 100px auto 100px auto;
+
+    }
+
+    section.news>button:hover {
+        background-color: #ff6365;
+        cursor: pointer;
+    }
+
+
+
+}
+
+@media(min-width:768px) and (max-width:992px) {
+
+    section.news {
+        text-align: center;
+
+    }
+
+    section.news>div.newstext {
+        padding: 120px 0 50px 0;
+        text-align: center;
+    }
+
+    section.news>div.newstext>p {
+        font-family: 'Montserrat';
+        font-size: 18px;
+        letter-spacing: 2px;
+        font-weight: 400;
+    }
+
+    section.news>div.newstext>h2 {
+        font-family: 'PlayfairDisplay';
+        font-size: 60px;
+        font-weight: 300;
+    }
+    section.news>div.newscart {
+        padding: 50px 0;
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-evenly;
+
+
+    }
+
+    section.news>div.newscart>div.cart {
+       margin-top: 50px;
+        text-align: center;
+        width: 334px;
+        
+    }
+    section.news>div.newscart>div.cart>div.newsph{
+        width: 334px;
+        height: 244px;
+    }
+    section.news>div.newscart>div.cart>div.newsph>img{
+        width: 334px;
+        height: 244px;
+    }
+
+    section.news>div.newscart>div.cart>h3 {
+        transition: all 300ms linear;
+        font-family: 'PlayfairDisplay';
+        font-size: 25px;
+        font-weight: 400;
+        padding: 15px 0 5px 0;
+    }
+
+    section.news>div.newscart>div.cart>p {
+        font-family: 'Montserrat';
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+
+    section.news>div.newscart>div.cart>h3:hover {
+        color: #7F0F41;
+        cursor: pointer;
+    }
+
+    section.news>button {
+        border: none;
+        width: 180px;
+        height: 45px;
+        font-size: 12px;
+        letter-spacing: 2px;
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+        margin: 0 auto 100px auto;
+
+    }
+
+    section.news>button:hover {
+        background-color: #ff6365;
+        cursor: pointer;
+    }
+
+}
+@media(min-width:576px) and (max-width:768px){
+
+    section.news {
+        text-align: center;
+
+    }
+
+    section.news>div.newstext {
+        padding: 50px 0 0 0;
+        text-align: center;
+    }
+
+    section.news>div.newstext>p {
+        font-family: 'Montserrat';
+        font-size: 18px;
+        letter-spacing: 2px;
+        font-weight: 400;
+    }
+
+    section.news>div.newstext>h2 {
+        font-family: 'PlayfairDisplay';
+        font-size: 60px;
+        font-weight: 300;
+    }
+    section.news>div.newscart {
+        padding: 50px 0;
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-evenly;
+
+
+    }
+
+    section.news>div.newscart>div.cart {
+       margin-top: 50px;
+        text-align: center;
+        width: 40%;
+        
+    }
+    section.news>div.newscart>div.cart>div.newsph{
+        width: 100%;
+        height: 250px;
+    }
+    section.news>div.newscart>div.cart>div.newsph>img{
+        width: 100%;
+        height: 250px;
+    }
+
+    section.news>div.newscart>div.cart>h3 {
+        transition: all 300ms linear;
+        font-family: 'PlayfairDisplay';
+        font-size: 25px;
+        font-weight: 400;
+        padding: 15px 0 5px 0;
+    }
+
+    section.news>div.newscart>div.cart>p {
+        font-family: 'Montserrat';
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+
+    section.news>div.newscart>div.cart>h3:hover {
+        color: #7F0F41;
+        cursor: pointer;
+    }
+
+    section.news>button {
+        border: none;
+        width: 180px;
+        height: 45px;
+        font-size: 12px;
+        letter-spacing: 2px;
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+        margin: 0 auto 100px auto;
+
+    }
+
+    section.news>button:hover {
+        background-color: #ff6365;
+        cursor: pointer;
+    }
+
+}
+@media(max-width:578px){
+
+    section.news {
+        text-align: center;
+
+    }
+
+    section.news>div.newstext {
+        padding: 50px 0 0 0;
+        text-align: center;
+    }
+
+    section.news>div.newstext>p {
+        font-family: 'Montserrat';
+        font-size: 15px;
+        letter-spacing: 2px;
+        font-weight: 400;
+    }
+
+    section.news>div.newstext>h2 {
+        font-family: 'PlayfairDisplay';
+        font-size: 40px;
+        font-weight: 300;
+    }
+    section.news>div.newscart {
+        
+        margin: auto;
+        width: 80%;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-evenly;
+
+
+    }
+
+    section.news>div.newscart>div.cart {
+        
+       margin-top: 50px;
+        text-align: center;
+        width: 80%;
+        
+    }
+    section.news>div.newscart>div.cart>div.newsph{
+        width: 100%;
+        height: 200px;
+    }
+    section.news>div.newscart>div.cart>div.newsph>img{
+        width: 100%;
+        height: 200px;
+    }
+
+    section.news>div.newscart>div.cart>h3 {
+        transition: all 300ms linear;
+        font-family: 'PlayfairDisplay';
+        font-size: 20px;
+        font-weight: 400;
+        padding: 15px 0 5px 0;
+    }
+
+    section.news>div.newscart>div.cart>p {
+        font-family: 'Montserrat';
+        font-size: 13px;
+        font-weight: 300;
+    }
+
+
+    section.news>div.newscart>div.cart>h3:hover {
+        color: #7F0F41;
+        cursor: pointer;
+    }
+
+    section.news>button {
+        border: none;
+        width: 180px;
+        height: 45px;
+        font-size: 12px;
+        letter-spacing: 2px;
+        background-color: #7F0F41;
+        color: white;
+        font-family: 'Montserrat';
+        transition: all 300ms linear;
+        margin: 50px auto 100px auto;
+
+    }
+
+    section.news>button:hover {
+        background-color: #ff6365;
+        cursor: pointer;
+    }
+
+}

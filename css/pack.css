@@ -1,0 +1,378 @@
+@media(min-width:1200px){
+section.pack{
+   margin-top: 70px;}
+section.pack>div.packtext{
+    text-align: center;
+    color:#45152A;
+    width: 100%;
+    margin-bottom: 50px;
+    
+}
+section.pack>div.packtext>p{
+    font-family:'Karla' ;
+    text-transform: capitalize;
+    font-size: 22px;
+    font-weight: lighter;
+
+}
+section.pack>div.packtext>h2{
+    font-family:'PlayfairDisplay' ;
+    font-size: 58px;
+    font-weight: lighter;
+}
+section.pack>div.packpix{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    text-align: center;
+    font-family:'PlayfairDisplay' ;
+}
+section.pack>div.packpix>div>h3{
+    transition: all 300ms linear;
+}
+section.pack>div.packpix>div>h3{
+    
+    font-weight: lighter;
+    font-size: 28px;
+}
+section.pack>div.packpix>div>h3:hover{
+color: #7F0F41;
+cursor: pointer;
+}
+section.pack>div.packpix>div>p.name>span{
+    line-height: 22px;
+}
+section.pack>div.packpix>div>p.name>span{
+     transition: all 300ms linear;
+}
+
+   
+section.pack>div.packpix>div>p.name{
+font-size: 13px;
+font-family: 'Montserrat';
+font-weight: 400;
+}
+
+section.pack>div.packpix>div>p.name>span:hover{
+    color:#7F0F41 ;
+    cursor: pointer;
+
+}
+section.pack>div.packpix>div>p.prise>span{
+    font-family: 'Montserrat'; 
+    font-size: 12px;
+    color:#FF6365 ;
+}
+}
+@media(min-width:992px ) and (max-width:1200px){
+    section.pack{
+        margin-top: 70px;
+     }
+     section.pack>div.packtext{
+         text-align: center;
+         color:#45152A;
+         width: 100%;
+         margin-bottom: 50px;
+         
+     }
+     section.pack>div.packtext>p{
+         font-family:'Karla' ;
+         text-transform: capitalize;
+         font-size: 22px;
+         font-weight: lighter;
+     
+     }
+     section.pack>div.packtext>h2{
+         font-family:'PlayfairDisplay' ;
+         font-size: 58px;
+         font-weight: lighter;
+     }
+     section.pack>div.packpix{
+         display: flex;
+         flex-flow: row wrap;
+         justify-content: center;
+         text-align: center;
+         font-family:'PlayfairDisplay' ;
+     }
+     section.pack>div.packpix>div{
+        text-align: center;
+
+     }
+     section.pack>div.packpix>div>img{
+                width: 300px;
+        height: 240px;
+     }
+
+     section.pack>div.packpix>div>h3{
+         transition: all 300ms linear;
+     }
+     section.pack>div.packpix>div>h3{
+         
+         font-weight: lighter;
+         font-size: 25px;
+     }
+     section.pack>div.packpix>div>h3:hover{
+     color: #7F0F41;
+     cursor: pointer;
+     }
+     section.pack>div.packpix>div>p.name>span{
+         line-height: 22px;
+     }
+     section.pack>div.packpix>div>p.name>span{
+          transition: all 300ms linear;
+     }
+     
+        
+     section.pack>div.packpix>div>p.name{
+     font-size: 13px;
+     font-family: 'Montserrat';
+     font-weight: 400;
+     }
+     
+     section.pack>div.packpix>div>p.name>span:hover{
+         color:#7F0F41 ;
+         cursor: pointer;
+     
+     }
+     section.pack>div.packpix>div>p.prise>span{
+         font-family: 'Montserrat'; 
+         font-size: 12px;
+         color:#FF6365 ;
+     }
+}
+@media(min-width:768px) and (max-width:992px){
+    section.pack{
+        margin-top: 70px;
+     }
+     section.pack>div.packtext{
+         text-align: center;
+         color:#45152A;
+         width: 100%;
+         margin-bottom: 50px;
+         
+     }
+     section.pack>div.packtext>p{
+         font-family:'Karla' ;
+         text-transform: capitalize;
+         font-size: 22px;
+         font-weight: lighter;
+     
+     }
+     section.pack>div.packtext>h2{
+         font-family:'PlayfairDisplay' ;
+         font-size: 58px;
+         font-weight: lighter;
+     }
+     section.pack>div.packpix{
+         display: flex;
+         flex-flow: row wrap;
+         justify-content: center;
+         text-align: center;
+         font-family:'PlayfairDisplay' ;
+     }
+     section.pack>div.packpix>div{
+        text-align: center;
+
+     }
+     section.pack>div.packpix>div>img{
+                width: 227px;
+        height: 170px;
+     }
+
+     section.pack>div.packpix>div>h3{
+         transition: all 300ms linear;
+     }
+     section.pack>div.packpix>div>h3{
+         
+         font-weight: lighter;
+         font-size: 25px;
+     }
+     section.pack>div.packpix>div>h3:hover{
+     color: #7F0F41;
+     cursor: pointer;
+     }
+     section.pack>div.packpix>div>p.name>span{
+         line-height: 22px;
+     }
+     section.pack>div.packpix>div>p.name>span{
+          transition: all 300ms linear;
+     }
+     
+        
+     section.pack>div.packpix>div>p.name{
+     font-size: 13px;
+     font-family: 'Montserrat';
+     font-weight: 400;
+     }
+     
+     section.pack>div.packpix>div>p.name>span:hover{
+         color:#7F0F41 ;
+         cursor: pointer;
+     
+     }
+     section.pack>div.packpix>div>p.prise>span{
+         font-family: 'Montserrat'; 
+         font-size: 12px;
+         color:#FF6365 ;
+     }
+}
+@media(min-width:576px) and (max-width:768px){
+    section.pack{
+        margin-top: 70px;
+     }
+     section.pack>div.packtext{
+         text-align: center;
+         color:#45152A;
+         width: 100%;
+         margin-bottom: 50px;
+         
+     }
+     section.pack>div.packtext>p{
+         font-family:'Karla' ;
+         text-transform: capitalize;
+         font-size: 22px;
+         font-weight: lighter;
+     
+     }
+     section.pack>div.packtext>h2{
+         font-family:'PlayfairDisplay' ;
+         font-size: 58px;
+         font-weight: lighter;
+     }
+     section.pack>div.packpix{
+         display: flex;
+         flex-flow: row wrap;
+         justify-content: center;
+         text-align: center;
+         font-family:'PlayfairDisplay' ;
+     }
+     section.pack>div.packpix>div{
+        text-align: center;
+
+     }
+     section.pack>div.packpix>div>img{
+                width: 227px;
+        height: 170px;
+     }
+
+     section.pack>div.packpix>div>h3{
+         transition: all 300ms linear;
+     }
+     section.pack>div.packpix>div>h3{
+         
+         font-weight: lighter;
+         font-size: 25px;
+     }
+     section.pack>div.packpix>div>h3:hover{
+     color: #7F0F41;
+     cursor: pointer;
+     }
+     section.pack>div.packpix>div>p.name>span{
+         line-height: 22px;
+     }
+     section.pack>div.packpix>div>p.name>span{
+          transition: all 300ms linear;
+     }
+     
+        
+     section.pack>div.packpix>div>p.name{
+     font-size: 13px;
+     font-family: 'Montserrat';
+     font-weight: 400;
+     }
+     
+     section.pack>div.packpix>div>p.name>span:hover{
+         color:#7F0F41 ;
+         cursor: pointer;
+     
+     }
+  
+     section.pack>div.packpix>div>p.prise>span{
+         font-family: 'Montserrat'; 
+         font-size: 12px;
+         color:#FF6365 ;
+     }
+   section.pack>div.packpix>div:nth-of-type(3){
+    display: none;
+   }
+}
+@media(max-width:576px){
+    section.pack{
+        margin-top: 70px;
+     }
+     section.pack>div.packtext{
+         text-align: center;
+         color:#45152A;
+         width: 100%;
+         margin-bottom: 50px;
+         
+     }
+     section.pack>div.packtext>p{
+         font-family:'Karla' ;
+         text-transform: capitalize;
+         font-size: 18px;
+         font-weight: lighter;
+     
+     }
+     section.pack>div.packtext>h2{
+         font-family:'PlayfairDisplay' ;
+         font-size: 45px;
+         font-weight: lighter;
+     }
+     section.pack>div.packpix{
+         display: flex;
+         flex-flow: row wrap;
+         justify-content: center;
+         text-align: center;
+         font-family:'PlayfairDisplay' ;
+     }
+     section.pack>div.packpix>div{
+        text-align: center;
+
+     }
+     section.pack>div.packpix>div>img{
+                width: 227px;
+        height: 170px;
+     }
+
+     section.pack>div.packpix>div>h3{
+         transition: all 300ms linear;
+     }
+     section.pack>div.packpix>div>h3{
+         
+         font-weight: lighter;
+         font-size: 25px;
+     }
+     section.pack>div.packpix>div>h3:hover{
+     color: #7F0F41;
+     cursor: pointer;
+     }
+     section.pack>div.packpix>div>p.name>span{
+         line-height: 22px;
+     }
+     section.pack>div.packpix>div>p.name>span{
+          transition: all 300ms linear;
+     }
+     
+        
+     section.pack>div.packpix>div>p.name{
+     font-size: 13px;
+     font-family: 'Montserrat';
+     font-weight: 400;
+     }
+     
+     section.pack>div.packpix>div>p.name>span:hover{
+         color:#7F0F41 ;
+         cursor: pointer;
+     
+     }
+  
+     section.pack>div.packpix>div>p.prise>span{
+         font-family: 'Montserrat'; 
+         font-size: 12px;
+         color:#FF6365 ;
+     }
+   section.pack>div.packpix>div:nth-of-type(3){
+    display: none;
+   }
+}

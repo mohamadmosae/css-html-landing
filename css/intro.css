@@ -1,0 +1,272 @@
+@media(min-width:1200px){
+section.intro{
+    width: 100%;
+    height: 100vh;
+    background: url(../images/hero-background-full-scaled.jpg) no-repeat center center scroll;
+    background-size: cover;
+    color: #fff;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+}
+section.intro>div{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    text-align: center;
+    
+}
+section.intro>div>p{
+    font-family:'Karla' ;
+    font-size: 28px;
+    font-weight: bolder;
+}
+section.intro>div>h1{
+
+    font-weight: lighter;
+    text-transform: capitalize;
+    font-Size: 110px;
+    
+}
+section.intro>div>button{
+    background-color: #7F0F41;
+    font-size: 17px;
+    line-height: 21px;
+    width: 220px;
+    height: 55px;
+    margin: 50px auto;
+    color: #fff;
+    border: none;
+    box-shadow:  0 30px 50px #000;
+    
+    
+}
+
+section.intro>div>button:hover{
+    background-color: #FF6365;
+}
+div.connector{
+    width: 100%;
+    height: 70px;
+    background-color: #1F0913;
+}
+}
+@media(min-width:992px ) and (max-width:1200px){
+
+    section.intro{
+        width: 100%;
+        height: 100vh;
+        background: url(../images/hero-background-full-scaled.jpg) no-repeat center center scroll;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-content: center;
+    }
+    section.intro>div{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        text-align: center;
+        
+    }
+    section.intro>div>p{
+        font-family:'Karla' ;
+        font-size: 28px;
+        font-weight: bolder;
+    }
+    section.intro>div>h1{
+    
+        font-weight: lighter;
+        text-transform: capitalize;
+        font-Size: 110px;
+        
+    }
+    section.intro>div>button{
+        background-color: #7F0F41;
+        font-size: 17px;
+        line-height: 21px;
+        width: 220px;
+        height: 55px;
+        margin: 50px auto;
+        color: #fff;
+        border: none;
+        box-shadow:  0 30px 50px #000;
+        
+        
+    }
+    
+    section.intro>div>button:hover{
+        background-color: #FF6365;
+    }
+    div.connector{
+        width: 100%;
+        height: 70px;
+        background-color: #1F0913;
+    }
+
+}
+@media(min-width:768px) and (max-width:992px){
+    section.intro{
+        width: 100%;
+        height: 100vh;
+        background: url(../images/hero-background-full-scaled.jpg) no-repeat center center scroll;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-content: center;
+    }
+    section.intro>div{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        text-align: center;
+        
+    }
+    section.intro>div>p{
+        font-family:'Karla' ;
+        font-size: 28px;
+        font-weight: bolder;
+    }
+    section.intro>div>h1{
+    
+        font-weight: lighter;
+        text-transform: capitalize;
+        font-Size: 110px;
+        
+    }
+    section.intro>div>button{
+        background-color: #7F0F41;
+        font-size: 17px;
+        line-height: 21px;
+        width: 220px;
+        height: 55px;
+        margin: 50px auto;
+        color: #fff;
+        border: none;
+        box-shadow:  0 30px 50px #000;
+        
+        
+    }
+    
+    section.intro>div>button:hover{
+        background-color: #FF6365;
+    }
+    div.connector{
+        width: 100%;
+        height: 70px;
+        background-color: #1F0913;
+    }
+}
+@media(min-width:576px) and (max-width:768px){
+    section.intro{
+        width: 100%;
+        height: 100vh;
+        background: url(../images/hero-background-full-scaled.jpg) no-repeat center center scroll;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-content: center;
+    }
+    section.intro>div{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        text-align: center;
+        
+    }
+    section.intro>div>p{
+        font-family:'Karla' ;
+        font-size: 28px;
+        font-weight: bolder;
+    }
+    section.intro>div>h1{
+    
+        font-weight: lighter;
+        text-transform: capitalize;
+        font-Size: 110px;
+        
+    }
+    section.intro>div>button{
+        background-color: #7F0F41;
+        font-size: 17px;
+        line-height: 21px;
+        width: 90%;
+        height: 55px;
+        margin: 50px auto;
+        color: #fff;
+        border: none;
+        box-shadow:  0 30px 50px #000;
+        
+        
+    }
+    
+    section.intro>div>button:hover{
+        background-color: #FF6365;
+    }
+    div.connector{
+        width: 100%;
+        height: 70px;
+        background-color: #1F0913;
+    }
+}
+@media(max-width:576px){
+    section.intro{
+        width: 100%;
+        height: 50vh;
+        background: url(../images/hero-background-full-scaled.jpg) no-repeat center center scroll;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-content: center;
+    }
+    section.intro>div{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        text-align: center;
+        
+    }
+    section.intro>div>p{
+        font-family:'Karla' ;
+        font-size: 18px;
+        font-weight: bolder;
+    }
+    section.intro>div>h1{
+    
+        font-weight: lighter;
+        text-transform: capitalize;
+        font-Size: 40px;
+        
+    }
+    section.intro>div>button{
+        background-color: #7F0F41;
+        font-size: 17px;
+        line-height: 21px;
+        width: 90%;
+        height: 40px;
+        margin: 30px auto;
+        color: #fff;
+        border: none;
+        box-shadow:  0 30px 50px #000;
+        
+        
+    }
+    
+    section.intro>div>button:hover{
+        background-color: #FF6365;
+    }
+    div.connector{
+        width: 100%;
+        height: 70px;
+        background-color: #1F0913;
+    }
+}
